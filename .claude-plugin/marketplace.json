@@ -1,0 +1,15 @@
+{
+  "name": "statusline-band",
+  "owner": {
+    "name": "waylongo"
+  },
+  "metadata": {
+    "description": "The statusline-band mod for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "statusline-band",
+      "source": "./"
+    }
+  ]
+}
